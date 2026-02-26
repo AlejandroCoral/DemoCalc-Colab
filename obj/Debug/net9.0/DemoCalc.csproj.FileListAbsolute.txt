@@ -1,0 +1,15 @@
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.AssemblyInfoInputs.cache
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.AssemblyInfo.cs
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.csproj.CoreCompileInputs.cache
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.sourcelink.json
+C:\CDGitDemo\VSClone\bin\Debug\net9.0\DemoCalc.exe
+C:\CDGitDemo\VSClone\bin\Debug\net9.0\DemoCalc.deps.json
+C:\CDGitDemo\VSClone\bin\Debug\net9.0\DemoCalc.runtimeconfig.json
+C:\CDGitDemo\VSClone\bin\Debug\net9.0\DemoCalc.dll
+C:\CDGitDemo\VSClone\bin\Debug\net9.0\DemoCalc.pdb
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.dll
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\refint\DemoCalc.dll
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.pdb
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\DemoCalc.genruntimeconfig.cache
+C:\CDGitDemo\VSClone\obj\Debug\net9.0\ref\DemoCalc.dll
