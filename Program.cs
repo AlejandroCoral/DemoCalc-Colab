@@ -9,3 +9,10 @@ string nombre = Console.ReadLine();
 Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine($"¡Hola {nombre}!");
 Console.ResetColor();
+
+Console.WriteLine("   SISTEMA DE CÁLCULO - DEMOCALC   ");
+Console.WriteLine("Versión: 1.1");
+Console.WriteLine($"Fecha y hora de inicio: {DateTime.Now}");
+Console.WriteLine();
+Console.WriteLine("Cambios sincronizados desde Visual Studio .NET");
+Console.WriteLine("Repositorio actualizado correctamente");
